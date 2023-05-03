@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Test
+Testing Git & GitHub.
